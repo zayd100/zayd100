@@ -50,7 +50,7 @@
     </td>
      <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="48" height="48" alt="Ethereum" />
-      <br>Ethereum
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="48" height="48" alt="mongoDB" />
