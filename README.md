@@ -80,8 +80,11 @@
  </td>
   </tr>
 </table>
-<a href="https://open.spotify.com/playlist/0D8VxCDcNC40fqYOrsFK91?si=cfb025e1cb3e415f">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="40" height="40"/>
+
+
+
+<a href="https://open.spotify.com/playlist/0D8VxCDcNC40fqYOrsFK91" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="20" height="20" alt="Spotify Playlist"/>
 </a>
 
 
