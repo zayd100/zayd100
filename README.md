@@ -77,12 +77,3 @@
  </td>
   </tr>
 </table>
-
-## 🔧 Skills & Expertise
-
-![Front-End Development](https://img.shields.io/badge/-Front--End%20Development-blue?style=for-the-badge&logo=html5)
-![Back-End Development](https://img.shields.io/badge/-Back--End%20Development-green?style=for-the-badge&logo=node.js)
-![Blockchain Development](https://img.shields.io/badge/-Blockchain%20Development-gray?style=for-the-badge&logo=ethereum)
-![Web3](https://img.shields.io/badge/-Web3-orange?style=for-the-badge&logo=ethereum)
-![Smart Contract Development](https://img.shields.io/badge/-Smart%20Contract%20Development-black?style=for-the-badge&logo=ethereum)
-![Hardhat](https://img.shields.io/badge/-Hardhat-yellow?style=for-the-badge&logo=ethereum)
