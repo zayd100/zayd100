@@ -1,13 +1,10 @@
 name: Generate Snake
-
 on:
   schedule:
     - cron: "0 */6 * * *"  # Runs every 6 hours
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,22 +13,17 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
-      # This step will create the folder if missing
       - name: Setup directories
         run: |
           mkdir -p dist
           touch dist/.gitkeep
-
       - name: Generate snake
         uses: Platane/snk@master
         id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-snake.svg
-
       - name: Commit and push
-        if: steps.snake.outputs.snake_created == 'true'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
