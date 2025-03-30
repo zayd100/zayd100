@@ -1,8 +1,6 @@
-### I'm Zayd! 🦾  
+### Yo, I'm Zayd! 🦾  
 
-### 🐍 My GitHub Contribution Snake
 
-# Hello, I'm Zayd 👋
 
 
 
