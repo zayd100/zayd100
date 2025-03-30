@@ -80,3 +80,5 @@
  </td>
   </tr>
 </table>
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]([https://open.spotify.com/user/YOUR_SPOTIFY_ID](https://open.spotify.com/playlist/0D8VxCDcNC40fqYOrsFK91?si=987acb2714df4da6))
+
