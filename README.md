@@ -72,7 +72,7 @@
       <img src="https://docs.ethers.org/v5/static/logo.svg" width="48" height="48" alt="ethers.js" />
       <br>ethers.js
       
-    </td>
+ </td>
   </tr>
 </table>
 
