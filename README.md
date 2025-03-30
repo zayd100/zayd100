@@ -31,7 +31,7 @@
       <br>Node.js
     </td>
         <td align="center" width="96">
-      <img src="[https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png](https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg)" width="48" height="48" alt="Hardhat" />
+      <img src="[[https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png](https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg)](https://raw.githubusercontent.com/NomicFoundation/hardhat/main/docs/src/assets/logo.svg)" width="48" height="48" alt="Hardhat" />
       <br>Hardhat
     </td>
     <td align="center" width="96">
