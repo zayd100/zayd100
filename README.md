@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
@@ -57,11 +57,11 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="48" height="48" alt="PostgreSQL" />
+      <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" width="48" height="48" alt="Ethereum" />
       <br>Ethereum
     </td>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="48" height="48" alt="Visual Studio Code" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="48" height="48" alt="Solidity" />
       <br>Solidity
     </td>
         <td align="center" width="96">
@@ -83,7 +83,3 @@
 ![Web3](https://img.shields.io/badge/-Web3-orange?style=for-the-badge&logo=ethereum)
 ![Smart Contract Development](https://img.shields.io/badge/-Smart%20Contract%20Development-black?style=for-the-badge&logo=ethereum)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-yellow?style=for-the-badge&logo=ethereum)
-
-
-
-
