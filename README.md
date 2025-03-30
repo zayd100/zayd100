@@ -80,7 +80,7 @@
  </td>
   </tr>
 </table>
-<a href="https://open.spotify.com/user/31ouli7fopj2vstvu2apf3lm5vpm?si=190fea35a3eb4034">
+<a href="https://open.spotify.com/playlist/0D8VxCDcNC40fqYOrsFK91?si=cfb025e1cb3e415f">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="40" height="40"/>
 </a>
 
