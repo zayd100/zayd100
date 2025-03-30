@@ -26,6 +26,10 @@
       <br>C++
     </td>
     <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="48" height="48" alt="TailwindCSS" />
+      <br>TailwindCSS
+    </td>
+    <td align="center" width="96">
 <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" width="65" height="65" />
       <br>Node.js
     </td>
@@ -38,6 +42,10 @@
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="48" height="48" alt="CSS" />
       <br>CSS3
+    </td>
+     <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="48" height="48" alt="Ethereum" />
+      <br>Ethereum
     </td>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="48" height="48" alt="mongoDB" />
