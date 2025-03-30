@@ -4,10 +4,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Yo%2C+I'm+Zayd!;Full-Stack+Developer;Blockchain+Enthusiast" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" 
-       width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/your-username/your-repo/main/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/your-username/your-repo/main/snake.svg">
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/snake-dark.svg" 
+         width="100%">
+  </picture>
 </p>
-
 
 <table>
   <tr>
