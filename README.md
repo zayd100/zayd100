@@ -1,7 +1,7 @@
 ### I'm Zayd! 🦾  
 
 ### 🐍 My GitHub Contribution Snake
-![Snake animation](https://github.com/zayd100/zayd100/blob/output/github-contribution-grid-snake.svg)
+
 # Hello, I'm Zayd 👋
 
 
