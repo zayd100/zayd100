@@ -65,15 +65,6 @@
 ![Smart Contract Development](https://img.shields.io/badge/-Smart%20Contract%20Development-black?style=for-the-badge&logo=ethereum)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-yellow?style=for-the-badge&logo=ethereum)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
-</p>
 
 
 
