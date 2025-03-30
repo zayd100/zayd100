@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/zayd100/zayd100/main/dist/github-contribution-snake.svg" 
        alt="Snake animation" 
-       width="100%">
+       width="40%">
 </p>
 
 
