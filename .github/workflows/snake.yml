@@ -17,11 +17,17 @@ jobs:
         with:
           fetch-depth: 0
 
+      # This step will create the folder if missing
+      - name: Setup directories
+        run: |
+          mkdir -p dist
+          touch dist/.gitkeep
+
       - name: Generate snake
         uses: Platane/snk@master
         id: snake
         with:
-          github_user_name: ${{ github.repository_owner }}  # Auto-detects your username
+          github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-snake.svg
 
       - name: Commit and push
