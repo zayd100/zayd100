@@ -80,7 +80,10 @@
  </td>
   </tr>
 </table>
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0D8VxCDcNC40fqYOrsFK91)
+<a href="https://open.spotify.com/user/31ouli7fopj2vstvu2apf3lm5vpm?si=190fea35a3eb4034">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="40" height="40"/>
+</a>
+
 
 
 
