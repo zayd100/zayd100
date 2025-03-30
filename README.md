@@ -69,8 +69,9 @@
       <br>Web3.js
     </td>
     <td align="center" width="96">
-      <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D1-seeklogo.com.png" width="48" height="48" alt="ethers.js" />
+      <img src="https://docs.ethers.org/v5/static/logo.svg" width="48" height="48" alt="ethers.js" />
       <br>ethers.js
+      
     </td>
   </tr>
 </table>
