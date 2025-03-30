@@ -19,7 +19,9 @@
 ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/-Ethers.js-2535a0?style=flat&logo=ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?style=flat&logo=hardhat&logoColor=black)
-
+<p align="center">
+  <img src="https://github.com/zayd100/zayd100/blob/main/dist/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 
 
