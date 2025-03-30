@@ -80,7 +80,7 @@
 
 
 <p align="center">
-  🎧 
+  
   <br>
   <a href="https://open.spotify.com/playlist/0D8VxCDcNC40fqYOrsFK91" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="40" height="40" alt="Spotify Playlist"/>
