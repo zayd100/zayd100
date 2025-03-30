@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Yo%2C+I'm+Zayd!;Full-Stack+Developer;Blockchain+Enthusiast" alt="Typing SVG" />
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zayd100/zayd100/main/dist/github-contribution-snake.svg" alt="Snake animation"/>
+</p>
 
 
 <table>
