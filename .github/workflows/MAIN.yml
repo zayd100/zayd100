@@ -2,11 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write  # Required to push changes
+  contents: write
 
 jobs:
   build:
@@ -16,25 +16,30 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Needed for proper git history
+          fetch-depth: 0
+
+      - name: Create dist directory
+        run: mkdir -p dist
 
       - name: Generate snake
         uses: Platane/snk@master
         id: snake
         with:
           github_user_name: zayd100
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-snake.svg
+          gif_out_path: dist/github-contribution-snake.gif
 
-      - name: Show status
-        if: always()
-        run: git status
-
-      - name: Commit and push changes
-        if: steps.snake.outputs.snake_created == 'true'
+      - name: Verify files
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dist/
-          git commit -m "Update snake animation [skip ci]"
-          git push origin HEAD:main
+          ls -la dist/
+          [ -f dist/github-contribution-snake.svg ] && echo "SVG exists" || echo "SVG missing"
+          [ -f dist/github-contribution-snake.gif ] && echo "GIF exists" || echo "GIF missing"
+
+      - name: Push to main branch
+        if: steps.snake.outputs.snake_created == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: 'main'
+          directory: 'dist'
+          force: true
