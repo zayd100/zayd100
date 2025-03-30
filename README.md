@@ -1,7 +1,8 @@
 ### I'm Zayd! 🦾  
 
-🔹 **Cybersecurity Enthusiast** 🛡️  
-🔹 **Blockchain & NFTs Developer** 🏗️  
-🔹 **Math & Physics Explorer** 📖  
+
+
+### 🐍 My GitHub Contribution Snake
+![GitHub Snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 
