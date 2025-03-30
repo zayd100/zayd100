@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Yo%2C+I'm+Zayd!;Full-Stack+Developer;Blockchain+Enthusiast" alt="Typing SVG" />
 </p>
@@ -32,10 +30,10 @@
       <br>TailwindCSS
     </td>
     <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" width="65" height="65" />
+      <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" width="65" height="65" />
       <br>Node.js
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg" width="48" height="48" alt="Hardhat" />
       <br>Hardhat
     </td>
@@ -69,24 +67,22 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="48" height="48" alt="Solidity" />
       <br>Solidity
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" width="48" height="48" alt="Web3.js" />
       <br>Web3.js
     </td>
     <td align="center" width="96">
       <img src="https://docs.ethers.org/v5/static/logo.svg" width="48" height="48" alt="ethers.js" />
       <br>ethers.js
-      
- </td>
+    </td>
   </tr>
 </table>
 
 
-
-<a href="https://open.spotify.com/playlist/0D8VxCDcNC40fqYOrsFK91" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="20" height="20" alt="Spotify Playlist"/>
-</a>
-
-
-
-
+<p align="center">
+  🎧 
+  <br>
+  <a href="https://open.spotify.com/playlist/0D8VxCDcNC40fqYOrsFK91" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="40" height="40" alt="Spotify Playlist"/>
+  </a>
+</p>
