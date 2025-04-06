@@ -88,5 +88,5 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Wikipedia-logo.png" width="40" height="40" alt="Wikipedia"/>
   </a>
 </p>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zayd100&layout=compact&theme=dark)](https://github.com/zayd100)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayd100&layout=compact&theme=dark)](https://github.com/zayd100)
 
