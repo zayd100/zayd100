@@ -88,3 +88,4 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Wikipedia-logo.png" width="40" height="40" alt="Wikipedia"/>
   </a>
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=zayd100&color=blueviolet&style=flat-square)
