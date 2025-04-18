@@ -79,11 +79,7 @@
 </table>
 
 
-<p align="center">
-  <a href="https://open.spotify.com/playlist/0D8VxCDcNC40fqYOrsFK91" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="40" height="40" alt="Spotify Playlist"/>
-  </a>
-  &nbsp;&nbsp;&nbsp; <!-- Adds space between icons -->
+
   <a href="https://en.wikipedia.org/wiki/User:Corvus12" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Wikipedia-logo.png" width="40" height="40" alt="Wikipedia"/>
   </a>
