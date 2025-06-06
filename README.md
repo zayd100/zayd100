@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Yo%2C+I'm+Zayd!;Full-Stack+Developer;Blockchain+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Yo%2C+I'm+Zaid!;" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" 
@@ -59,22 +59,8 @@
       <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="48" height="48" alt="mongoDB" />
       <br>MongoDB
     </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" width="48" height="48" alt="Ethereum" />
-      <br>Ethereum
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="48" height="48" alt="Solidity" />
-      <br>Solidity
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" width="48" height="48" alt="Web3.js" />
-      <br>Web3.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://docs.ethers.org/v5/static/logo.svg" width="48" height="48" alt="ethers.js" />
-      <br>ethers.js
-    </td>
+ 
+
   </tr>
 </table>
 
