@@ -80,16 +80,19 @@
 ## 🎵 Currently Vibing To
 
 <div align="center">
-  <img src="https://spotify-github-readme.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
+  <a href="https://open.spotify.com/playlist/0D8VxCDcNC40fqYOrsFK91?si=9261774be3ae4efc" target="_blank">
+    <img src="https://spotify-github-readme.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
+  </a>
 </div>
+
 
 ---
 
 <div align="center">
   
-### 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 🦇 "Courage isn't having the strength to go on — it is going on when you don't have the strength." - Napoleon Bonaparte
 
-**Thanks for visiting my profile! Let's build something amazing together!** 🌟
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" alt="Footer" />
 
