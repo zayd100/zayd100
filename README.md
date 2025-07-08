@@ -1,11 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Yo%2C+I'm+Zaid!;" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" 
-       width="100%"
-       style="background:#0d1117">  <!-- Forces dark background -->
-</p>
+
 
 <table>
   <tr>
