@@ -26,6 +26,15 @@
       <br>C++
     </td>
     <td align="center" width="96">
+  <img src="https://user-images.githubusercontent.com/25181517/183911699-9d65f486-2546-4a3a-9491-e77d45ee0d54.png" width="48" height="48" alt="Git" />
+  <br>Git
+</td>
+
+<td align="center" width="96">
+  <img src="https://user-images.githubusercontent.com/25181517/183911913-e1a2f00a-961d-492f-94d8-09e5257f3271.png" width="48" height="48" alt="Vercel" />
+  <br>Vercel
+</td>
+    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="48" height="48" alt="TailwindCSS" />
       <br>TailwindCSS
     </td>
@@ -42,6 +51,11 @@
       <br>Firebase
     </td>
   </tr>
+  <td align="center" width="96">
+  <img src="https://user-images.githubusercontent.com/25181517/183911545-09f2a4c2-5822-4d0d-86b0-82f5c5f8c01a.png" width="48" height="48" alt="Express.js" />
+  <br>Express.js
+</td>
+
   <tr>
     <td align="center" width="96"> 
       <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="48" height="48" alt="HTML5" />
