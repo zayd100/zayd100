@@ -84,9 +84,10 @@
 
 <div align="center">
   <a href="https://open.spotify.com/playlist/0D8VxCDcNC40fqYOrsFK91?si=9261774be3ae4efc" target="_blank">
-    <img src="https://spotify-github-readme.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify Playlist" width="120" />
   </a>
 </div>
+
 
 
 ---
