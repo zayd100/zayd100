@@ -3,12 +3,10 @@
 # 🚀 Hey there, I'm Zaid!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+Enthusiast;Open+Source+Contributor;Building+the+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Blockchain+Enthusiast;Open+Source+Contributor;" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?color=58A6FF&style=for-the-badge" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-58A6FF?style=for-the-badge" alt="Focus" />
 </p>
 
