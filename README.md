@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-58A6FF?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20and20%Web3%20Developer-58A6FF?style=for-the-badge" alt="Focus" />
 </p>
-
+Full Stack & Web3 Developer
 </div>
 
 ---
