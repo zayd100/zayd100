@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20and%20Web3%20Developer-58A6FF?style=for-the-badge" alt="Focus" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack-58A6FF?style=for-the-badge" alt="Focus" />
 
 </p>
 
