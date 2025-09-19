@@ -74,24 +74,6 @@
 
 ---
 
-## 🦇 Quote by Napoleon Bonaparte
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5F5F&center=true&vCenter=true&width=1000&lines=Courage+isn't+having+the+strength+to+go+on;+it's+going+on+when+you+don't+have+the+strength." alt="Napoleon Quote SVG" />
-</div>
-
-
-
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <a href="https://open.spotify.com/playlist/0D8VxCDcNC40fqYOrsFK91?si=9261774be3ae4efc" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify Playlist" width="120" />
-  </a>
-</div>
 
 
 
