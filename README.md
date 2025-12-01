@@ -14,6 +14,7 @@
 
 ### Database & Cloud
 <p>
+    <img src="https://img.shields.io/badge/AWS%20SDK-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SDK" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
