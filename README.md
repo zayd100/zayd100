@@ -37,7 +37,36 @@
 </p>
 
 ---
+## ⚙️ Tech Stack
 
+<p align="center">
+  <!-- Node.js -->
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
+  <!-- TypeScript -->
+  <img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript" />
+  <!-- React -->
+  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
+  <!-- PostgreSQL -->
+  <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="PostgreSQL" />
+  <!-- MongoDB -->
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
+  <!-- npm -->
+  <img src="https://skillicons.dev/icons?i=npm" width="50" height="50" alt="npm" />
+  <!-- AWS -->
+  <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS SDK" />
+  <!-- Git -->
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
+  <!-- Docker -->
+  <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
+  <!-- VS Code -->
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
+  <!-- Web3 -->
+  <img src="https://skillicons.dev/icons?i=web3" width="50" height="50" alt="Web3" />
+  <!-- Hardhat -->
+  <img src="https://skillicons.dev/icons?i=hardhat" width="50" height="50" alt="Hardhat" />
+  <!-- Ethereum -->
+  <img src="https://skillicons.dev/icons?i=ethereum" width="50" height="50" alt="Ethereum" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/System%20Status-Stable-brightgreen?style=for-the-badge&logo=terminal" />
 </p>
