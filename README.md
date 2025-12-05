@@ -22,9 +22,9 @@
 ---
 
 ## 🛸 Featured Protocols
-- **Project Delta** → Data visualization & storage engine  
+- **Project Delta** → Data visualization for biotech industry  
 - **AskShido** → Interactive questionnaire system  
-- **JetWiki** → MERN template for historical simulations  
+- **JetWiki** → Wiki for jets
 - **Zyz Dynamics DB** → Research intelligence hub  
 
 ---
