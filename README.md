@@ -26,4 +26,4 @@
 
 <p>
 
-![zayd100's GitHub stats](https://github-readme-stats.vercel.app/api?username=zayd100&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+[![zayd100's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zayd100&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
