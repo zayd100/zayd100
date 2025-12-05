@@ -1,7 +1,6 @@
 <!-- Futuristic Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=Hello...;Deploying+Full+Stack+Protocols...;Engaging+Digital+Innovation+Systems...;Transmission+Online+..." alt="Typing SVG" />
-  
+ <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=Instead+only+try+to+realize+the+truth.;There+is+no+spoon.;Hello...;Deploying+Full+Stack+Protocols...;Engaging+Digital+Innovation+Systems...;Transmission+Online+..." alt="Typing SVG" />
 </h1>
 
 
