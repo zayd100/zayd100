@@ -25,8 +25,4 @@
 
 ---
 
-## 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayd100&layout=compact&theme=radical)
-
-## 📚 Languages Used
-![Languages](https://github-readme-stats.vercel.app/api?username=zayd100&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=zayd100&include_all_commits=true&count_private=true&show_icons=false&hide=stars,prs,issues,contribs&custom_title=Total%20Contributions&theme=radical)
