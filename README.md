@@ -25,6 +25,19 @@
 </p>
 
 <p>
+
+
+  ## ⚡ GitHub Stats
+![zayd100's GitHub stats](https://github-readme-stats.vercel.app/api?username=zayd100&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+![zayd100's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=zayd100&theme=radical)
+
+## 🏆 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayd100&layout=compact&theme=radical)
+
+## 📊 Contribution Graph
+[![zayd100's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zayd100&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
