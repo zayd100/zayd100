@@ -45,25 +45,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zayd100&theme=radical&hide_border=true&ring=00fff7&fire=ff00ff&currStreakLabel=00fff7" />
 </p>
 
----
-
-## 🛸 Featured Protocols
-- **Project Delta** → Data visualization for biotech industry  
-- **AskShido** → Interactive questionnaire system  
-- **JetWiki** → Wiki for jets
-- **Zyz Dynamics DB** → Research intelligence hub  
-
----
-
-## 🌌 Transmission Links
-<p align="center">
-  <a href="https://github.com/zayd100"><img src="https://img.shields.io/badge/GitHub-Core-black?style=for-the-badge&logo=github" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Network-Link-blue?style=for-the-badge&logo=react" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Contact-Encrypted-green?style=for-the-badge&logo=protonmail" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/System%20Status-Stable-brightgreen?style=for-the-badge&logo=terminal" />
-</p>
