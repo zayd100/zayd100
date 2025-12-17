@@ -35,9 +35,8 @@
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zayd100&bg_color=000000&color=00fff7&line=00fff7&point=ffffff&area=true&hide_border=true&range=365)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zayd100&theme=radical&hide_border=true&ring=00fff7&fire=ff00ff&currStreakLabel=00fff7" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zayd100&theme=radical&hide_border=true&ring=00fff7&fire=ff00ff&currStreakLabel=00fff7" />
+</div>
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=zayd100)
