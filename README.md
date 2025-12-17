@@ -29,12 +29,6 @@
   <img src="https://skillicons.dev/icons?i=ethereum" width="50" height="50" alt="Ethereum" />
 </p>
 
-<!-- Neon Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-∞-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Status-Online-blue?style=for-the-badge&logo=matrix" />
-  <img src="https://img.shields.io/badge/Mode-Locked IN-purple?style=for-the-badge&logo=react" />
-</p>
 
 ---
 
