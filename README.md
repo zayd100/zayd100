@@ -32,7 +32,7 @@
 
 ---
 
-## ⚡ System Activity
+
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zayd100&bg_color=000000&color=00fff7&line=00fff7&point=ffffff&area=true&hide_border=true&range=365)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
