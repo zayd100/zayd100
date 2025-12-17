@@ -39,3 +39,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zayd100&theme=radical&hide_border=true&ring=00fff7&fire=ff00ff&currStreakLabel=00fff7" />
 </p>
 
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=zayd100)
