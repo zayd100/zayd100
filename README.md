@@ -2,10 +2,11 @@
 
 <p align="center">
   <!-- Core Languages -->
-  <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript" />
 <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" />
 <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++" />
 <img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript / TSX" />
+<img src="https://skillicons.dev/icons?i=laravel" width="50" height="50" alt="Laravel" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
   
   <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
