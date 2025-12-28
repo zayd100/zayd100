@@ -2,11 +2,11 @@
 
 <p align="center">
   <!-- Core Languages -->
-<img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" />
-<img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++" />
-<img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript / TSX" />
-<img src="https://skillicons.dev/icons?i=laravel" width="50" height="50" alt="Laravel" />
 <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript / TSX" />
+<img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" />
+<img src="https://skillicons.dev/icons?i=laravel" width="50" height="50" alt="Laravel" />
+
   
   <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
@@ -23,6 +23,7 @@
   
   <!-- Web3 / Blockchain -->
   <img src="https://skillicons.dev/icons?i=web3" width="50" height="50" alt="Web3" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++" />
   <img src="https://skillicons.dev/icons?i=hardhat" width="50" height="50" alt="Hardhat" />
   <img src="https://skillicons.dev/icons?i=ethereum" width="50" height="50" alt="Ethereum" />
 </p>
