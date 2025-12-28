@@ -3,14 +3,15 @@
 <p align="center">
   <!-- Core Languages -->
   <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript / TSX" />
+<img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" />
+<img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++" />
+<img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript / TSX" />
   
   <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
   <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
   
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
   
   <!-- Tools -->
