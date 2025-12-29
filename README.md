@@ -1,6 +1,7 @@
 <p align="center">
   
 ### Web Development
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
 <img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript / TSX" />
 <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" />
@@ -12,11 +13,33 @@
 <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
 <img src="https://skillicons.dev/icons?i=npm" width="50" height="50" alt="npm" />
 <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
+</p>
 
 ### Systems & Embedded Development
+<p align="center">
 <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++" />
 <img src="https://skillicons.dev/icons?i=web3" width="50" height="50" alt="Web3" />
 <img src="https://skillicons.dev/icons?i=hardhat" width="50" height="50" alt="Hardhat" />
 <img src="https://skillicons.dev/icons?i=ethereum" width="50" height="50" alt="Ethereum" />
+</p>
 
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
