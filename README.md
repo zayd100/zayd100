@@ -1,6 +1,5 @@
 <p align="center">
   
-### Web Development
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
 <img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript / TSX" />
@@ -13,10 +12,6 @@
 <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
 <img src="https://skillicons.dev/icons?i=npm" width="50" height="50" alt="npm" />
 <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
-</p>
-
-### Systems & Embedded Development
-<p align="center">
 <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++" />
 <img src="https://skillicons.dev/icons?i=web3" width="50" height="50" alt="Web3" />
 <img src="https://skillicons.dev/icons?i=hardhat" width="50" height="50" alt="Hardhat" />
