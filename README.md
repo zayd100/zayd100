@@ -3,8 +3,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
 <img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript / TSX" />
-<img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" />
-<img src="https://skillicons.dev/icons?i=laravel" width="50" height="50" alt="Laravel" />
 <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
 <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
 <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
