@@ -1,1 +1,1 @@
-![Kiki](./kiki.jpeg)
+![Kiki](./kiki.jpg)
