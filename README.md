@@ -18,7 +18,7 @@
 
 
 
-## Activity
+
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zayd100&bg_color=0d0d0d&color=ffffff&line=4169E1&point=ffffff&area=true&hide_border=true" />
